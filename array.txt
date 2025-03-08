@@ -1,0 +1,21 @@
+Array (Dizi) Nedir?
+
+Array (Türkçesi: dizi), aynı türdeki birden fazla veriyi tek bir değişkende saklamaya yarayan veri yapısıdır. Diziler, programlamada büyük miktarda veriyi yönetmeyi kolaylaştırır.
+
+Dizilerin Özellikleri:
+Tek Tip Veri: Bir dizide genellikle sadece aynı türden elemanlar bulunur (integer, string, float vs.).
+
+Sıralı ve İndeksli: Dizinin elemanları sıralıdır ve her elemana indeks (index) numarası ile erişilir.
+
+Sabit Boyutlu (Statik Diziler): Birçok programlama dilinde dizinin boyutu baştan belirlenir ve sonradan değiştirilemez (C, Java gibi). Ancak, Python gibi bazı dillerde listeler dinamik olarak büyüyebilir.
+
+Bellekte Sürekli Yerleşim: Diziler bellekte ardışık olarak saklanır, bu da erişim hızını artırır.
+Dizilerin Avantajları ve Dezavantajları
+✅ Avantajları:
+
+Hızlı erişim (O(1) zaman karmaşıklığı ile).
+Bellekte düzenli ve sıralı bir yapı oluşturur.
+❌ Dezavantajları:
+
+Sabit boyutlu olması esneklik sağlar ama bazen veri ekleyip çıkarmayı zorlaştırır.
+Bellekte fazla yer kaplayabilir, özellikle büyük boyutlu dizilerde.
