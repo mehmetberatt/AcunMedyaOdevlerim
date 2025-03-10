@@ -1,0 +1,14 @@
+C:\Users\mehme\OneDrive\Desktop\Yazılım\28.02odev\odevlerim\bin\Debug\net8.0\odevlerim.exe
+C:\Users\mehme\OneDrive\Desktop\Yazılım\28.02odev\odevlerim\bin\Debug\net8.0\odevlerim.deps.json
+C:\Users\mehme\OneDrive\Desktop\Yazılım\28.02odev\odevlerim\bin\Debug\net8.0\odevlerim.runtimeconfig.json
+C:\Users\mehme\OneDrive\Desktop\Yazılım\28.02odev\odevlerim\bin\Debug\net8.0\odevlerim.dll
+C:\Users\mehme\OneDrive\Desktop\Yazılım\28.02odev\odevlerim\bin\Debug\net8.0\odevlerim.pdb
+C:\Users\mehme\OneDrive\Desktop\Yazılım\28.02odev\odevlerim\obj\Debug\net8.0\odevlerim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\OneDrive\Desktop\Yazılım\28.02odev\odevlerim\obj\Debug\net8.0\odevlerim.AssemblyInfoInputs.cache
+C:\Users\mehme\OneDrive\Desktop\Yazılım\28.02odev\odevlerim\obj\Debug\net8.0\odevlerim.AssemblyInfo.cs
+C:\Users\mehme\OneDrive\Desktop\Yazılım\28.02odev\odevlerim\obj\Debug\net8.0\odevlerim.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Desktop\Yazılım\28.02odev\odevlerim\obj\Debug\net8.0\odevlerim.dll
+C:\Users\mehme\OneDrive\Desktop\Yazılım\28.02odev\odevlerim\obj\Debug\net8.0\refint\odevlerim.dll
+C:\Users\mehme\OneDrive\Desktop\Yazılım\28.02odev\odevlerim\obj\Debug\net8.0\odevlerim.pdb
+C:\Users\mehme\OneDrive\Desktop\Yazılım\28.02odev\odevlerim\obj\Debug\net8.0\odevlerim.genruntimeconfig.cache
+C:\Users\mehme\OneDrive\Desktop\Yazılım\28.02odev\odevlerim\obj\Debug\net8.0\ref\odevlerim.dll

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\OneDrive\\Desktop\\Yaz\u0131l\u0131m\\28.02odev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B947685-FCE3-47C4-B411-5E071EBA0993}|odevlerim\\odevlerim.csproj|c:\\users\\mehme\\onedrive\\desktop\\yaz\u0131l\u0131m\\28.02odev\\odevlerim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B947685-FCE3-47C4-B411-5E071EBA0993}|odevlerim\\odevlerim.csproj|solutionrelative:odevlerim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B947685-FCE3-47C4-B411-5E071EBA0993}|odevlerim\\odevlerim.csproj|c:\\users\\mehme\\onedrive\\desktop\\yaz\u0131l\u0131m\\28.02odev\\odevlerim\\odev28.02\\porsche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B947685-FCE3-47C4-B411-5E071EBA0993}|odevlerim\\odevlerim.csproj|solutionrelative:odevlerim\\odev28.02\\porsche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B947685-FCE3-47C4-B411-5E071EBA0993}|odevlerim\\odevlerim.csproj|c:\\users\\mehme\\onedrive\\desktop\\yaz\u0131l\u0131m\\28.02odev\\odevlerim\\odev28.02\\tasit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B947685-FCE3-47C4-B411-5E071EBA0993}|odevlerim\\odevlerim.csproj|solutionrelative:odevlerim\\odev28.02\\tasit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B947685-FCE3-47C4-B411-5E071EBA0993}|odevlerim\\odevlerim.csproj|c:\\users\\mehme\\onedrive\\desktop\\yaz\u0131l\u0131m\\28.02odev\\odevlerim\\odev28.02\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B947685-FCE3-47C4-B411-5E071EBA0993}|odevlerim\\odevlerim.csproj|solutionrelative:odevlerim\\odev28.02\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B947685-FCE3-47C4-B411-5E071EBA0993}|odevlerim\\odevlerim.csproj|c:\\users\\mehme\\onedrive\\desktop\\yaz\u0131l\u0131m\\28.02odev\\odevlerim\\odev28.02\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B947685-FCE3-47C4-B411-5E071EBA0993}|odevlerim\\odevlerim.csproj|solutionrelative:odevlerim\\odev28.02\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B947685-FCE3-47C4-B411-5E071EBA0993}|odevlerim\\odevlerim.csproj|c:\\users\\mehme\\onedrive\\desktop\\yaz\u0131l\u0131m\\28.02odev\\odevlerim\\odev28.02\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B947685-FCE3-47C4-B411-5E071EBA0993}|odevlerim\\odevlerim.csproj|solutionrelative:odevlerim\\odev28.02\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mercedes.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Desktop\\Yaz\u0131l\u0131m\\28.02odev\\odevlerim\\odev28.02\\Mercedes.cs",
+              "RelativeDocumentMoniker": "odevlerim\\odev28.02\\Mercedes.cs",
+              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Desktop\\Yaz\u0131l\u0131m\\28.02odev\\odevlerim\\odev28.02\\Mercedes.cs",
+              "RelativeToolTip": "odevlerim\\odev28.02\\Mercedes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T22:33:53.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Porsche.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Desktop\\Yaz\u0131l\u0131m\\28.02odev\\odevlerim\\odev28.02\\Porsche.cs",
+              "RelativeDocumentMoniker": "odevlerim\\odev28.02\\Porsche.cs",
+              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Desktop\\Yaz\u0131l\u0131m\\28.02odev\\odevlerim\\odev28.02\\Porsche.cs",
+              "RelativeToolTip": "odevlerim\\odev28.02\\Porsche.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T22:29:50.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bmw.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Desktop\\Yaz\u0131l\u0131m\\28.02odev\\odevlerim\\odev28.02\\Bmw.cs",
+              "RelativeDocumentMoniker": "odevlerim\\odev28.02\\Bmw.cs",
+              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Desktop\\Yaz\u0131l\u0131m\\28.02odev\\odevlerim\\odev28.02\\Bmw.cs",
+              "RelativeToolTip": "odevlerim\\odev28.02\\Bmw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T22:23:53.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tasit.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Desktop\\Yaz\u0131l\u0131m\\28.02odev\\odevlerim\\odev28.02\\Tasit.cs",
+              "RelativeDocumentMoniker": "odevlerim\\odev28.02\\Tasit.cs",
+              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Desktop\\Yaz\u0131l\u0131m\\28.02odev\\odevlerim\\odev28.02\\Tasit.cs",
+              "RelativeToolTip": "odevlerim\\odev28.02\\Tasit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T22:22:54.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Calisan.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Desktop\\Yaz\u0131l\u0131m\\28.02odev\\odevlerim\\odev28.02\\Calisan.cs",
+              "RelativeDocumentMoniker": "odevlerim\\odev28.02\\Calisan.cs",
+              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Desktop\\Yaz\u0131l\u0131m\\28.02odev\\odevlerim\\odev28.02\\Calisan.cs",
+              "RelativeToolTip": "odevlerim\\odev28.02\\Calisan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T18:46:50.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Desktop\\Yaz\u0131l\u0131m\\28.02odev\\odevlerim\\Program.cs",
+              "RelativeDocumentMoniker": "odevlerim\\Program.cs",
+              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Desktop\\Yaz\u0131l\u0131m\\28.02odev\\odevlerim\\Program.cs",
+              "RelativeToolTip": "odevlerim\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T01:03:27.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
