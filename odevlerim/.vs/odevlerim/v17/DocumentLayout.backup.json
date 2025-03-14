@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\source\\repos\\odevlerim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B947685-FCE3-47C4-B411-5E071EBA0993}|odevlerim\\odevlerim.csproj|c:\\users\\mehme\\source\\repos\\odevlerim\\odevlerim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B947685-FCE3-47C4-B411-5E071EBA0993}|odevlerim\\odevlerim.csproj|solutionrelative:odevlerim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "program.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\odevlerim\\odevlerim\\program.cs",
+              "RelativeDocumentMoniker": "odevlerim\\program.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\odevlerim\\odevlerim\\program.cs",
+              "RelativeToolTip": "odevlerim\\program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T23:40:56.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\odevlerim\odevlerim\bin\Debug\net8.0\odevlerim.exe
+C:\Users\mehme\source\repos\odevlerim\odevlerim\bin\Debug\net8.0\odevlerim.deps.json
+C:\Users\mehme\source\repos\odevlerim\odevlerim\bin\Debug\net8.0\odevlerim.runtimeconfig.json
+C:\Users\mehme\source\repos\odevlerim\odevlerim\bin\Debug\net8.0\odevlerim.dll
+C:\Users\mehme\source\repos\odevlerim\odevlerim\bin\Debug\net8.0\odevlerim.pdb
+C:\Users\mehme\source\repos\odevlerim\odevlerim\obj\Debug\net8.0\odevlerim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\odevlerim\odevlerim\obj\Debug\net8.0\odevlerim.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\odevlerim\odevlerim\obj\Debug\net8.0\odevlerim.AssemblyInfo.cs
+C:\Users\mehme\source\repos\odevlerim\odevlerim\obj\Debug\net8.0\odevlerim.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\odevlerim\odevlerim\obj\Debug\net8.0\odevlerim.dll
+C:\Users\mehme\source\repos\odevlerim\odevlerim\obj\Debug\net8.0\refint\odevlerim.dll
+C:\Users\mehme\source\repos\odevlerim\odevlerim\obj\Debug\net8.0\odevlerim.pdb
+C:\Users\mehme\source\repos\odevlerim\odevlerim\obj\Debug\net8.0\odevlerim.genruntimeconfig.cache
+C:\Users\mehme\source\repos\odevlerim\odevlerim\obj\Debug\net8.0\ref\odevlerim.dll
