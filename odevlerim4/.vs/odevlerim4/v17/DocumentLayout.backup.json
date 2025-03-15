@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\source\\repos\\odevlerim4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22F730E6-58DF-4C1A-897D-DA65AE618F57}|odevlerim4\\odevlerim4.csproj|c:\\users\\mehme\\source\\repos\\odevlerim4\\odevlerim4\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F730E6-58DF-4C1A-897D-DA65AE618F57}|odevlerim4\\odevlerim4.csproj|solutionrelative:odevlerim4\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F730E6-58DF-4C1A-897D-DA65AE618F57}|odevlerim4\\odevlerim4.csproj|c:\\users\\mehme\\source\\repos\\odevlerim4\\odevlerim4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F730E6-58DF-4C1A-897D-DA65AE618F57}|odevlerim4\\odevlerim4.csproj|solutionrelative:odevlerim4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F730E6-58DF-4C1A-897D-DA65AE618F57}|odevlerim4\\odevlerim4.csproj|c:\\users\\mehme\\source\\repos\\odevlerim4\\odevlerim4\\pencere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F730E6-58DF-4C1A-897D-DA65AE618F57}|odevlerim4\\odevlerim4.csproj|solutionrelative:odevlerim4\\pencere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F730E6-58DF-4C1A-897D-DA65AE618F57}|odevlerim4\\odevlerim4.csproj|c:\\users\\mehme\\source\\repos\\odevlerim4\\odevlerim4\\marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F730E6-58DF-4C1A-897D-DA65AE618F57}|odevlerim4\\odevlerim4.csproj|solutionrelative:odevlerim4\\marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F730E6-58DF-4C1A-897D-DA65AE618F57}|odevlerim4\\odevlerim4.csproj|c:\\users\\mehme\\source\\repos\\odevlerim4\\odevlerim4\\kasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F730E6-58DF-4C1A-897D-DA65AE618F57}|odevlerim4\\odevlerim4.csproj|solutionrelative:odevlerim4\\kasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F730E6-58DF-4C1A-897D-DA65AE618F57}|odevlerim4\\odevlerim4.csproj|c:\\users\\mehme\\source\\repos\\odevlerim4\\odevlerim4\\kapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F730E6-58DF-4C1A-897D-DA65AE618F57}|odevlerim4\\odevlerim4.csproj|solutionrelative:odevlerim4\\kapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "araba.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\odevlerim4\\odevlerim4\\araba.cs",
+              "RelativeDocumentMoniker": "odevlerim4\\araba.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\odevlerim4\\odevlerim4\\araba.cs*",
+              "RelativeToolTip": "odevlerim4\\araba.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T00:25:09.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "marka.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\odevlerim4\\odevlerim4\\marka.cs",
+              "RelativeDocumentMoniker": "odevlerim4\\marka.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\odevlerim4\\odevlerim4\\marka.cs",
+              "RelativeToolTip": "odevlerim4\\marka.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T00:24:57.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "kasa.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\odevlerim4\\odevlerim4\\kasa.cs",
+              "RelativeDocumentMoniker": "odevlerim4\\kasa.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\odevlerim4\\odevlerim4\\kasa.cs",
+              "RelativeToolTip": "odevlerim4\\kasa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T00:24:46.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pencere.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\odevlerim4\\odevlerim4\\pencere.cs",
+              "RelativeDocumentMoniker": "odevlerim4\\pencere.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\odevlerim4\\odevlerim4\\pencere.cs",
+              "RelativeToolTip": "odevlerim4\\pencere.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T00:24:36.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "kapi.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\odevlerim4\\odevlerim4\\kapi.cs",
+              "RelativeDocumentMoniker": "odevlerim4\\kapi.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\odevlerim4\\odevlerim4\\kapi.cs",
+              "RelativeToolTip": "odevlerim4\\kapi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T00:24:24.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\odevlerim4\\odevlerim4\\Program.cs",
+              "RelativeDocumentMoniker": "odevlerim4\\Program.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\odevlerim4\\odevlerim4\\Program.cs",
+              "RelativeToolTip": "odevlerim4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T00:22:09.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

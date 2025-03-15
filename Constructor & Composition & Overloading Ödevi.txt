@@ -1,0 +1,31 @@
+📌 1. Araştırma Kısmı
+🛠️ C#’ta Garbage Collector (Çöp Toplayıcı) Nedir?
+🔹 Garbage Collector (GC), C# gibi yönetilen dillerde bellek yönetimini otomatik yapan bir mekanizmadır. Programın artık kullanılmayan nesnelerini bellekten temizleyerek gereksiz bellek kullanımını önler.
+
+🔹 🛑 Manuel bellek yönetimine gerek kalmaz, çünkü GC otomatik çalışır ve bellek sızıntılarının önüne geçer.
+
+🔹 📌 Nasıl Çalışır?
+1️⃣ Nesne oluşturulur ve heap (yığın) bellekte saklanır.
+2️⃣ Nesne kullanılmaz hale geldiğinde Garbage Collector onu tespit eder.
+3️⃣ Boşta kalan nesneler toplanır ve bellek temizlenir.
+
+✅ Avantajları:
+
+Bellek Sızıntılarını Önler 🛡️
+Manuel Temizleme Gerektirmez 🏗️
+Uygulamanın Performansını Artırır 🚀
+🛠️ Generic Class’lar ve Generic Method’lar (Boxing & Unboxing)
+🔹 Generic Yapılar 🚀, farklı veri tipleriyle çalışabilen sınıf ve metotlardır. Kod tekrarını azaltır ve daha esnek programlama sağlar.
+
+🔹 Generic Kullanım Örnekleri
+
+List<T> → C#’taki Generic Koleksiyonlardan biridir.
+Dictionary<TKey, TValue> → Anahtar-değer çiftleriyle çalışan bir yapıdır.
+🔹 Boxing & Unboxing
+✅ Boxing: Değer tipini (int, double, bool) nesneye (object) çevirme işlemidir.
+✅ Unboxing: Object olarak saklanan değeri tekrar orijinal tipe çevirme işlemidir.
+
+⚠️ Performans açısından dikkat edilmeli!
+
+Boxing maliyetlidir çünkü heap'e veri yerleştirilir.
+Unboxing ek yük getirir çünkü nesne stack'e geri alınır.
