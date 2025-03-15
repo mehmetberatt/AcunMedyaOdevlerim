@@ -1,0 +1,26 @@
+📌 1. Araştırma Kısmı
+🔹 C#’ta Erişim Belirleyiciler (Access Modifiers) Nedir?
+C# dilinde erişim belirleyiciler, sınıfların, metodların ve değişkenlerin hangi bölümlerden erişilebileceğini belirler. Kod güvenliği ve düzeni sağlamak için kullanılır.
+
+🛠️ Erişim Belirleyiciler ve Gerçek Hayattan Örnekler
+🔹 public (Herkese Açık)
+📌 Her yerden erişilebilir.
+✅ Örnek: Bir restoranın menüsü, herkes tarafından görülebilir.
+
+🔹 private (Özel)
+📌 Sadece aynı sınıf içinden erişilebilir.
+✅ Örnek: ATM’nin PIN kodu, yalnızca size özeldir, başkası göremez.
+
+🔹 protected (Korunan)
+📌 Sadece miras alınan (kalıtım yoluyla türeyen) sınıflar erişebilir.
+✅ Örnek: Bir şirketin çalışan verileri, sadece yöneticiler tarafından görülebilir.
+
+🔹 internal (Dahili)
+📌 Sadece aynı proje içinde kullanılabilir.
+✅ Örnek: Bir şirketin iç iletişim sistemi (intranet), sadece çalışanlar tarafından kullanılabilir.
+
+🔹 Erişim Belirleyicilerin Nesne Yönelimli Programlamadaki (OOP) Rolü
+✅ 🔒 Kapsülleme (Encapsulation) → Verileri dışarıdan direkt değiştirmeyi engeller, güvenliği artırır.
+✅ 📦 Modülerlik (Modularity) → Kodun belirli bölümlerini saklayarak daha düzenli ve okunabilir bir yapı oluşturur.
+✅ 🔑 Yetkilendirme (Authorization) → Hangi bilginin nerede ve kim tarafından erişileceğini belirler.
+
