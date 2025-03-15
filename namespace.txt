@@ -1,0 +1,16 @@
+1️⃣ C#’ta Namespace Nedir?
+Namespace, C# projelerinde sınıfları, metotları ve diğer bileşenleri düzenlemek için kullanılan bir yapıdır.
+
+Örneğin: System.Console.WriteLine("Merhaba"); kodunda System bir namespace’tir.
+2️⃣ Namespace Kullanmanın Avantajları
+✅ Kod Düzeni Sağlar – Büyük projelerde kodları anlamlı gruplara ayırarak daha düzenli bir yapı oluşturur.
+✅ İsim Çakışmalarını Önler – Aynı isimde farklı sınıfların birbirine karışmasını engeller.
+✅ Modülerlik Sağlar – Kod parçalarının bağımsız olarak geliştirilmesine yardımcı olur.
+
+3️⃣ Genişletilebilirlik (Extensibility) Nedir?
+Genişletilebilirlik, bir yazılımın yeni özellikler eklenerek veya değiştirilerek gelişmeye açık olmasıdır.
+
+Nasıl sağlanır?
+Modüler Kodlama: Her bileşeni ayrı bir yapı olarak geliştirmek.
+Arayüzler (Interfaces) ve Soyut Sınıflar (Abstract Classes) kullanmak.
+Bağımlılıkları azaltmak (Loose Coupling).

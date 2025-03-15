@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\source\\repos\\odevlerim2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62D619D4-4843-438B-BA40-74AF36B43EC8}|odevlerim2\\odevlerim2.csproj|c:\\users\\mehme\\source\\repos\\odevlerim2\\odevlerim2\\hesaplama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D619D4-4843-438B-BA40-74AF36B43EC8}|odevlerim2\\odevlerim2.csproj|solutionrelative:odevlerim2\\hesaplama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D619D4-4843-438B-BA40-74AF36B43EC8}|odevlerim2\\odevlerim2.csproj|c:\\users\\mehme\\source\\repos\\odevlerim2\\odevlerim2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D619D4-4843-438B-BA40-74AF36B43EC8}|odevlerim2\\odevlerim2.csproj|solutionrelative:odevlerim2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hesaplama.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\odevlerim2\\odevlerim2\\hesaplama.cs",
+              "RelativeDocumentMoniker": "odevlerim2\\hesaplama.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\odevlerim2\\odevlerim2\\hesaplama.cs*",
+              "RelativeToolTip": "odevlerim2\\hesaplama.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T00:01:44.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\odevlerim2\\odevlerim2\\Program.cs",
+              "RelativeDocumentMoniker": "odevlerim2\\Program.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\odevlerim2\\odevlerim2\\Program.cs",
+              "RelativeToolTip": "odevlerim2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T23:57:56.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
